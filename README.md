@@ -1,6 +1,7 @@
 <h2 align="left">
  <abc>
-  <br> <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="80"> I'm  Apoorv Katiyar 🖐️<br>
+  <br> <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="80"> <br>
+  <br> I'm  Apoorv Katiyar 🖐️<br>
   <br> I'm a Research Analyst :computer:<br>
   <br>
     <img src="https://media.giphy.com/media/neffXsHmkBieY/giphy.gif" alt="Coder GIF" width="500">
@@ -17,4 +18,4 @@
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-apoorvkatiyar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/apoorvkatiyar/)](https://www.linkedin.com/in/apoorvkatiyar/) [![Twitter Badge](https://img.shields.io/badge/-@KatiyarApoorv-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/KatiyarApoorv)](https://twitter.com/KatiyarApoorv) [![Facebook Badge](https://img.shields.io/badge/-@Ap00rv001-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/Ap00rv001)](https://www.facebook.com/Ap00rv001) [![Instagram Badge](https://img.shields.io/badge/-@ap00rv_katiyar-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/ap00rv_katiyar/)](https://www.instagram.com/ap00rv_katiyar/)
+[![Linkedin Badge](https://img.shields.io/badge/-apoorvkatiyar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/apoorvkatiyar/)](https://www.linkedin.com/in/apoorvkatiyar/) [![Twitter Badge](https://img.shields.io/badge/-@apoorvkatiyar-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/KatiyarApoorv)](https://twitter.com/KatiyarApoorv) [![Facebook Badge](https://img.shields.io/badge/-@apoorvkatiyar-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/Ap00rv001)](https://www.facebook.com/Ap00rv001) [![Instagram Badge](https://img.shields.io/badge/-@apoorvkatiyar-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/ap00rv_katiyar/)](https://www.instagram.com/ap00rv_katiyar/)
