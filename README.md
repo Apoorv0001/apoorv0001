@@ -2,7 +2,7 @@
  <abc>
   <br> <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="80"> <br>
   <br> I'm  Apoorv Katiyar 🖐️<br>
-  <br> I'm a Research Analyst :computer:<br>
+  <br> I'm a Machine Learning Enthusiast! :computer:<br>
   <br>
     <img src="https://media.giphy.com/media/neffXsHmkBieY/giphy.gif" alt="Coder GIF" width="500">
  </abc>
@@ -10,6 +10,7 @@
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - :computer: I'm currently working on Cloud Technology. 
+- 👨‍💻 A Machine Learning Enthusiast!
 - :hourglass_flowing_sand:  Exploring Microsoft Azure
 - :rocket: Always ready to collaborate for Devs
 - :man_technologist: Former Intern at JIO
