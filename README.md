@@ -1,7 +1,7 @@
 <h2 align="left">
  <abc>
   <br><img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="200"><br>
-  <br> <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="200"> I'm  Apoorv Katiyar 🖐️<br>
+  <br> <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="50"> I'm  Apoorv Katiyar 🖐️<br>
   <br> I'm a Research Analyst :computer:<br>
   <br>
     <img src="https://gfycat.com/ashamedweightydachshund" alt="Coder GIF" width="500">
