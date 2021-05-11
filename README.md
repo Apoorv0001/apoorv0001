@@ -1,10 +1,10 @@
 <h2 align="left">
  <abc>
-  <br> <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="80"> <br>
+  <br> <img src="https://media.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif" width="80"> <br>
   <br> I'm  Apoorv Katiyar 🖐️<br>
   <br> I'm a Machine Learning Enthusiast! :computer:<br>
   <br>
-    <img src="https://media.giphy.com/media/neffXsHmkBieY/giphy.gif" alt="Coder GIF" width="400">
+    <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" alt="Coder GIF" width="400">
  </abc>
 </h2> 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
