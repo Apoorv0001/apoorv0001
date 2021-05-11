@@ -4,7 +4,7 @@
   <br> I'm  Apoorv Katiyar 🖐️<br>
   <br> I'm a Machine Learning Enthusiast! :computer:<br>
   <br>
-    <img src="https://media.giphy.com/media/neffXsHmkBieY/giphy.gif" alt="Coder GIF" width="500">
+    <img src="https://media.giphy.com/media/neffXsHmkBieY/giphy.gif" alt="Coder GIF" width="400">
  </abc>
 </h2> 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
