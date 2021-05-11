@@ -1,6 +1,6 @@
 <h2 align="left">
  <abc>
-  <br> <img src="https://media.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif" width="80"> <br>
+  <br> <img src="https://media.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif" width="100"> <br>
   <br> I'm  Apoorv Katiyar 🖐️<br>
   <br> I'm a Machine Learning Enthusiast! :computer:<br>
   <br>
