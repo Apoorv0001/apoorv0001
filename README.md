@@ -2,7 +2,7 @@
  <abc>
   <br> <img src="https://media.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif" width="100"> <br>
   <br> I'm  Apoorv Katiyar 🖐️<br>
-  <br> A Machine Learning Enthusiast! :computer:<br>
+ <!--<br> A Machine Learning Enthusiast! :computer:<br>-->
   <br>
     <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" alt="Coder GIF" width="400">
  </abc>
