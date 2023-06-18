@@ -10,8 +10,8 @@
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - :computer: I'm currently working on Cloud Technology. 
-- 👨‍💻 A Machine Learning Enthusiast!
-- :hourglass_flowing_sand:  Exploring Microsoft Azure
+- 👨‍💻 A DevOps Enthusiast!
+- :hourglass_flowing_sand:  Exploring Devops
 - :rocket: Always ready to collaborate for Devs
 - :man_technologist: Former Intern at JIO
 - :trophy: Awarded with Platinum Certificate at JIO
