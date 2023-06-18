@@ -11,7 +11,7 @@
 
 - :computer: I'm currently working on Cloud Technology. 
 - 👨‍💻 A DevOps Enthusiast!
-- :hourglass_flowing_sand:  Exploring Devops
+- :hourglass_flowing_sand:  Exploring DevOps
 - :rocket: Always ready to collaborate for Devs
 - :man_technologist: Former Intern at JIO
 - :trophy: Awarded with Platinum Certificate at JIO
