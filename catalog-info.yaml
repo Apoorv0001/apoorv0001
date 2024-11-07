@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Apoorv0001
+  annotations:
+    github.com/project-slug: Apoorv0001/Apoorv0001
+spec:
+  type: other
+  lifecycle: unknown
+  owner: team-a
